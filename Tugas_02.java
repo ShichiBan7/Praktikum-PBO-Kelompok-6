@@ -24,7 +24,7 @@ public class Tugas_02 {
         //Golongan Darah
         //char
         //Konstanta
-        final char GOLDA ='O';
+        final char golonganDarah ='O';
         
         //Umur
         int umur = 19;
@@ -37,7 +37,7 @@ public class Tugas_02 {
         
        System.out.println("Nama Saya : " + nama);
        System.out.println("NIM Saya  : " + nimSaya);
-       System.out.println("Golongan Darah Saya  : " + GOLDA);
+       System.out.println("Golongan Darah Saya  : " + golonganDarah);
        System.out.println("Umur  : " + umur);
        System.out.println("IP Semester 1 saya adalah : " + ipSemester[0]);
        System.out.println("IP Semester 2 saya adalah : " + ipSemester[1]);
