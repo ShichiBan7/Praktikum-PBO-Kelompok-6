@@ -27,10 +27,13 @@ public class Praktikum_4 {
         switch (warna){
             case "R":
                 System.out.println ("Anda memilih warna merah ");
+                break;
             case "G":
                 System.out.println ("Anda memilih warna hijau ");
+                break;
             case "B":
                 System.out.println ("Anda memilih warna biru ");
+                break;
             default:
                 System.out.println ("Warna tidak tersedia ");
     }
@@ -41,9 +44,9 @@ public class Praktikum_4 {
             System.out.print ("bilangan bernilai positif ");
             
             if (angka % 2 == 0){
-                System.out.print ("dan genap");
+                System.out.println ("dan genap");
             } else {
-                System.out.print ("dan ganjil");
+                System.out.println ("dan ganjil");
                 
             }
          
@@ -53,7 +56,7 @@ public class Praktikum_4 {
             System.out.print ("bilangan bernilai negatif");
             
             if (angka % 2 == 0){
-                System.out.print ("dan genap");
+                System.out.println ("dan genap");
             } else {
                 System.out.println ("dan ganjil");
 
