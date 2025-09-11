@@ -3,9 +3,11 @@
  */
 
 package com.mycompany.quiz_1;
-
 import java.util.Scanner;
-
+/**
+ *
+ * @author Nabil
+ */
 public class Quiz_1 {
 
         enum Warna {
